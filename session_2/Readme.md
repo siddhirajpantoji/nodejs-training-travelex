@@ -14,22 +14,26 @@ Take no of Rows (n ) from Command Prompt and produce following output in MD File
 Hint process.stdout.write()
 make 3 pograms for 3 patterns 
 Program 1 
+```sh
 # Hello 
 ## Hello
 ### Hello
 #### Hello
 ##### Hello
-
-Program 2 
+```
+Program 2
+```sh 
 ##### Hello
 #### Hello
 ### Hello
 ## Hello
 # Hello
-
+```
 Program 3
+```sh
      # Hello 
     ## Hello
    ### Hello
   #### Hello
  ##### Hello  
+```
