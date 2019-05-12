@@ -1,5 +1,5 @@
 # Express Framework
-1.Normal Server
+1. Normal Server
 2. Static file hosting or static website
 3. Intro to middleware ( body-parser)
 4. Routes of Express 
